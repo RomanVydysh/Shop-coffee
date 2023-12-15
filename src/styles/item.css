@@ -1,0 +1,64 @@
+.group-main{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 14px;
+    padding-top: 20px;
+}
+.main--coffe {
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    
+}
+.main--about {
+    font-family: 'Merienda', cursive;
+    font-size: 14px;
+    padding-top: 15px;
+}
+.main--about--aside {
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+}
+.main--text {
+    font-family: 'Merienda', cursive;
+    font-size: 24px ;
+   
+}
+.main--text--mass {
+    margin-top: 80px;
+}
+.main--img--item {
+    margin-top: 70px;
+    max-height: 355px;
+    max-width: 392px;
+    margin-right: 50px;
+}
+.main--line--img {
+    margin-top: 60px;
+    margin: 0 auto;
+}
+.main--country {
+    text-align: left;
+    font-family: 'Merienda', cursive;
+    font-size: 14px;
+}
+.main--about {
+    text-align: left;
+    font-family: 'Merienda', cursive;
+    font-size: 14px;
+    max-width: 420px;
+}
+.main-price {
+    text-align: left;
+    font-family: 'Merienda', cursive;
+    font-size: 14px;
+    padding-top: 16px;
+}
+.main-price-bold {
+    font-size: 24px;
+    padding-bottom: 15px;
+}

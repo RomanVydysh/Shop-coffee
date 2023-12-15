@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@400;700&display=swap');
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.head--nav {
+    font-family: 'Merienda', cursive;
+}
+.head--list--pleasure {
+    display: flex;
+    gap: 40px;
+    align-items: flex-end;
+    color: #FFFFFF;
+    font-size: 12px;
+    padding-left: 149px;
+}
+.head--pleasure {
+    background-image: url(../svg/Group2.svg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    padding-top: 30px;
+    height: 640px;
+}
+.head--list--pleasure a {
+    text-decoration: none;
+    list-style-type: none ;   
+    color: #FFFFFF;
+    font-size: 12px;
+    font-family: 'Merienda', cursive;
+}
+.head--list--pleasure li {
+    text-decoration: none;
+    list-style-type: none ;  
+    font-size: 12px;
+}
+.logo-text--pleasure {
+    display: flex;
+    align-items: flex-end;
+}
+.logo-text--pleasure li {
+    display: flex;
+    align-items: flex-end;
+    font-size: 12px;
+   
+}
+.logo-text--pleasure img {
+    height: 35px;
+    width: 35px;
+}
+.coffe-rows--pleasure {
+    display: flex;
+    padding-top: 20px;
+    justify-content: center;
+    text-align: center;
+}
+.head--pleasure {
+    background-image: url(../img/coffee-2179009_1920.png);
+    height: 260px;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+}
+.head--text--pleasure {
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Merienda', cursive;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 60px;
+}

@@ -1,0 +1,62 @@
+.cataloge--nav--search--store {
+    display: flex;
+    gap: 20px;
+}
+.cataloge--nav--store {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    gap: 83px;
+    padding-top: 30px;
+}
+.cataloge--nav--search--store h1 {
+    font-size: 14px;
+    font-family: 'Merienda', cursive;
+    text-align: center;
+    margin: auto 0;
+}
+.cataloge--nav--input--store {
+    padding: 6px 36px;
+    text-align: center;
+    font-family: 'Merienda', cursive;
+    font-size: 12px;
+    box-shadow: 4px 4px 20px 0px rgba(0, 0, 0, 0.25);
+    border: 0px;
+}
+.cataloge--nav--filter--store {
+    display: flex;
+}
+.cataloge--nav--filter--store button {
+    cursor: pointer;
+}
+.cataloge--nav--filter--store h1 {
+    margin: auto;
+    margin-right: 35px;
+    font-family: 'Merienda', cursive;
+    font-size: 14px;
+    
+}
+.cataloge--nav--filter--store button {
+    font-family: 'Merienda', cursive;
+    font-size: 12px;
+    background-color: #FFFFFF;
+    border: 0px;
+    box-shadow: 4px 4px 20px 0px rgba(0, 0, 0, 0.25);
+    margin-right: 5px;
+    padding: 7px 20px 5px 20px;  
+}
+.cataloge--nav--filter--store a {
+    text-decoration: none;
+    color: black;
+}
+.cataloge--card--row--store {
+    display: grid;
+    margin: 0 auto;
+    justify-content: center;
+    padding-top: 61px ;
+    max-width: 800px;
+    width: 100%;
+    grid-template-columns: repeat(auto-fill, 225px);
+    column-gap: 50px;
+    row-gap: 50px;
+}

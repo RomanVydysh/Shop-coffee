@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@400;700&display=swap');
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.head--nav {
+    font-family: 'Merienda', cursive;
+}
+.head--list {
+    display: flex;
+    gap: 40px;
+    align-items: flex-end;
+    color: #FFFFFF;
+    font-size: 12px;
+    padding-left: 149px;
+}
+.head {
+    background-image: url(../img/Mainbg.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    padding-top: 30px;
+    height: 640px;
+}
+.head--list a {
+    text-decoration: none;
+    list-style-type: none ;   
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.head--list li {
+    text-decoration: none;
+    list-style-type: none ;  
+}
+.logo-text {
+    display: flex;
+    align-items: flex-end;
+}
+.logo-text li {
+    display: flex;
+    align-items: flex-end;
+   
+}
+.logo-text img {
+    height: 35px;
+    width: 35px;
+}
+.coffe-rows {
+    display: flex;
+    padding-top: 20px;
+    justify-content: center;
+    text-align: center;
+}
+.head {
+    background-image: url(../img/Mainbg.jpg);
+}
+.intro {
+    text-align: center;
+    margin: auto;
+    padding: 0px;
+}
+.intro h1 {
+    padding-top: 111px;
+    color: #FFFFFF;
+    font-family: 'Merienda', cursive;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.intro-text1 {
+    color: #FFFFFF;
+    font-family: 'Merienda', cursive;
+    font-weight: 700;
+    font-size: 24px;
+   
+}
+.intro-text2 {
+    color: #FFFFFF;
+    font-family: 'Merienda', cursive;
+    font-weight: 700;
+    font-size: 24px;
+    padding-top: 20px;
+    margin-bottom: 25px;
+   
+}
+.intro-text-full {
+    padding-top: 35px;
+}
+
+.intro-button {
+    padding: 5px 45px 10px 45px;
+    border: 2px solid;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

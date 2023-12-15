@@ -1,0 +1,45 @@
+.group-main{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 14px;
+    padding-top: 20px;
+}
+.main--coffe--For {
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+  
+    
+}
+.main--about--For {
+    font-family: 'Merienda', cursive;
+    font-size: 14px;
+    padding-top: 15px;
+    width: 346px;
+}
+.main--about--aside--For {
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    gap: 89px;
+}
+.main--text--For {
+    font-family: 'Merienda', cursive;
+    font-size: 24px ;
+   
+}
+.main--text--mass--For {
+    margin-top: 80px;
+}
+.main--img--For {
+    margin-top: 70px;
+    height: 355px;
+    width: 272px;
+}
+.main--line--img--For {
+    padding-top: 60px;
+    margin: 0 auto;
+}

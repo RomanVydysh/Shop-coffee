@@ -1,0 +1,41 @@
+.footer-nav-ul a {
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+    font-family: 'Merienda', cursive;
+    font-size: 12px;
+    align-items: flex-end;
+    cursor: pointer;
+    
+}
+.footer-nav-ul li {
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+    font-family: 'Merienda', cursive;
+    font-size: 12px;
+    align-items: flex-end;
+    cursor: pointer;
+    
+}
+.footer-nav-ul {
+    display: flex;
+    list-style-type: none;
+    gap: 40px;
+    
+}
+.footer-nav-logo {
+    display: flex;
+    
+}
+.footer-nav {
+    padding-top: 30px;
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+}
+
+

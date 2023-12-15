@@ -1,0 +1,41 @@
+.store-card a {
+    text-decoration: none;
+}
+.store-card {
+    background-color: #FFFFFF;
+    height: 240px;
+    width: 220px;
+    border-radius: 5px;
+    align-items: center;
+    text-align: end;
+    cursor: pointer;
+}
+.store-card-img {
+   display: flex;
+   margin: 0 auto;
+   padding-top: 22px;
+}
+.store-card-text {
+    padding-top: 14px;
+    font-family: 'Merienda', cursive;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+.store-card-price {
+    padding-top: 10px;
+    font-family: 'Merienda', cursive;
+    font-weight: 700;
+    padding-right: 20px;
+    text-decoration: none;
+    color: black;
+}
+.cataloge {
+    padding-top: 39px;
+    display: flex;
+    gap: 71px;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+}
